@@ -1,0 +1,10 @@
+!build/web/
+!build/web/**
+android/
+windows/
+test/
+.dart_tool/
+.gradle/
+.idea/
+build/app/
+build/windows/

@@ -1,6 +1,5 @@
 {
-  "version": 2,
-  "public": "build/web",
+  "outputDirectory": "build/web",
   "cleanUrls": true,
   "rewrites": [
     {
